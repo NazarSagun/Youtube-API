@@ -1,1 +1,1 @@
-For running app use command "npm install" in console and than "npm start" for starting development server.
+Use command "npm install" in console to install dependencies and than "npm start" to start development server.
